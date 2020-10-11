@@ -19,6 +19,30 @@ int main()
 
     printf("Scaler product is %d \n",sp);
 
-     //Nishu
+    //vector sum // Nishu
+
+    printf("vector sum is \n",)
+
+    for (i=0;i<5;i++)
+
+    {​​
+
+    W[i]=U[i]+V[i];
+
+    printf("%d \n",W[i]);
+
+    }​​
+
+    //vector product
+
+    printf("Vector product is \n")
+
+    for (i=0;i<5;i++)
+
+    {​​
+
+
+
+}​​
 
 }
