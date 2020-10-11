@@ -3,6 +3,21 @@ int main()
 {
     int U[5],V[5],W[5],sumU=0,sumV=0,sp=0;
  //suraji
+      int i;
+
+     for (i=0;i<5;i++)
+
+     {​​
+
+     printf("enter a value into the element %d of array U ",i+1);
+
+     scanf("%d",&U[i+1]);
+
+     printf("enter a value into the element %d of array V ",i+1);
+
+     scanf("%d",&V[i+1]);
+
+     }​​
     
     for (i=0;i<5;i++)
     { 
