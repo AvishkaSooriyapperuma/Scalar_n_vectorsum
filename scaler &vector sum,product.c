@@ -55,5 +55,6 @@ int main()
 
 
 }
+    printf("end the programme");
 
 }
